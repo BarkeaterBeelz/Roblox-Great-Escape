@@ -1,12 +1,14 @@
 [
-  {
-    "user": "AvZach",
-    "pass": "Diamond"
-  }
-],
-[
-  {
-    "user": "BarkeaterBeelz",
-    "pass": "Gold"
-  }
+    [
+        {
+            "user": "AvZach",
+            "pass": "Diamond"
+        }
+    ],
+    [
+        {
+            "user": "BarkeaterBeelz",
+            "pass": "Gold"
+        }
+    ]
 ]
