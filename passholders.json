@@ -1,10 +1,12 @@
-<passholders>
-  	<diamond>
-		<user>AvZach</user>
-  	</diamond>
-  	<platinum>
-	    	<user>BarkeaterBeelz</user>
-  	</platinum>
-  	<gold>
-  	</gold>
-</passholders>
+[
+  {
+    "user": "AvZach",
+    "pass": "Diamond"
+  }
+],
+[
+  {
+    "user": "BarkeaterBeelz",
+    "pass": "Gold"
+  }
+]
